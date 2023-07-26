@@ -1,4 +1,8 @@
-# localGPT
+# EnterpriseGPT
+
+## Overview
+
+EnterpriseGPT combines Langchain, localGPT_llama2, SalesGPT to create a cohesive private sales, marketing and support automation solution for enterprise.
 
 This project was inspired by the original [privateGPT](https://github.com/imartinez/privateGPT). Most of the description here is inspired by the original privateGPT.
 
